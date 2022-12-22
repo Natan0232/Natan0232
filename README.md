@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_1996or">
 </a>
 
-<a href="https://www.facebook.com/Natan.Malinovski" alt="Facebook" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/NatanMalinovski">
+<a href="https://www.facebook.com/profile.php?id=100006447002918" alt="Facebook" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006447002918">
 </a>
 
 <a href="https://www.linkedin.com/in/natan-malinovski/" alt="Facebook" target="_blank">
