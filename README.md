@@ -2,11 +2,17 @@
 ## Bem vindo ao meu perfil GitHub 👋
 ### Aspirante a programador e futuro desenvolvedor Web Full Stack
 
-- Atualmente estou aprendendo programação Web Full Stack.
-- Lendo o livro 'Nós os Deuses'.
-- Trabalhando em um projeto própio (Desenvolvimento de produto)
+#### Gosto muito de Games, livros e viajar.
 
+- No momento  estou lendo o livro 'Nós os Deuses'.
+- Trabalhando em um projeto própio (Desenvolvimento de produto).
+- Aprendendo programação Web Full Stack com a GrowDev.
+
+## Experiências:
+- Trabalho atualmente com RF (Rádio Frequência), mas ja tive experiencia com: Administração, vendas, TI e Produção de Eventos.
 <br />
+
+## Aqui está algumas Redes ao qual você pode me acompanhar:
 
 <a href="https://www.instagram.com/natan_1996or" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/natan_1996or">
@@ -22,7 +28,7 @@
 
 <br />
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias ao qual tenho gosto:
 
   <div>
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" width="80" height="30"/>
@@ -34,7 +40,7 @@
   
   <div/>
 
-## Estou aprendendo
+## Estou aprendendo:
   <div>
       <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" width="80" height="30"/>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" width="100" height="30"/>
